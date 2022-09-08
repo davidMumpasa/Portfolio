@@ -5,6 +5,7 @@ import JavaScript from '../Assets/JAVASCRIPT.png'
 import Spring from '../Assets/SpringBoot.png'
 import ReactJs from '../Assets/REACT.png'
 import Java from '../Assets/JAVA.png'
+import JavaEE from '../Assets/JavaEE.png'
 import GITHUB from '../Assets/GitHub.png'
 
 const Skills = () => {
@@ -46,7 +47,7 @@ const Skills = () => {
                     <p className='my-4'>JAVA</p>
                 </div>
                 <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                    <img className='w-20 mx-auto' src={Java} alt="Java ee, icon"/> 
+                    <img className='w-20 mx-auto' src={JavaEE} alt="Java ee, icon"/> 
                     <p className='my-4'>JEE</p>
                 </div>
             </div>
