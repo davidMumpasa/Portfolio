@@ -1,29 +1,28 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.0c309848.css",
-    "main.js": "/Portfolio/static/js/main.571f150e.js",
-    "static/js/787.f6e65957.chunk.js": "/Portfolio/static/js/787.f6e65957.chunk.js",
+    "main.css": "/Portfolio/static/css/main.457b27a8.css",
+    "main.js": "/Portfolio/static/js/main.0c604447.js",
+    "static/js/453.1407b060.chunk.js": "/Portfolio/static/js/453.1407b060.chunk.js",
     "static/media/Faculty.jpg": "/Portfolio/static/media/Faculty.784e69cd40a3f64a137e.jpg",
     "static/media/Hospital.jpg": "/Portfolio/static/media/Hospital.a881da5c7213c07b5ab2.jpg",
     "static/media/Lab.jpg": "/Portfolio/static/media/Lab.daeb1c541671808bc617.jpg",
     "static/media/Wordle.jpg": "/Portfolio/static/media/Wordle.7502a0861092ebe23724.jpg",
     "static/media/Task.jpg": "/Portfolio/static/media/Task.11ab519582e702de90d3.jpg",
+    "static/media/David.pdf": "/Portfolio/static/media/David.41dda043cbbe43dbf882.pdf",
     "static/media/Flight.jpg": "/Portfolio/static/media/Flight.b93819ffc307febd991d.jpg",
     "static/media/SpringBoot.png": "/Portfolio/static/media/SpringBoot.06545b7d2b1013232f72.png",
     "static/media/JavaEE.png": "/Portfolio/static/media/JavaEE.84960c6a43406f27c9ae.png",
-    "static/media/REACT.png": "/Portfolio/static/media/REACT.47a490592682112eb463.png",
-    "static/media/David.pdf": "/Portfolio/static/media/David.d38400a45e53c9420f67.pdf",
+    "static/media/REACT.PNG": "/Portfolio/static/media/REACT.47a490592682112eb463.PNG",
     "static/media/DE.png": "/Portfolio/static/media/DE.13c1b8b3fd016720b85c.png",
     "static/media/JAVA.png": "/Portfolio/static/media/JAVA.7506ee0b6a3a7de68178.png",
     "static/media/GitHub.png": "/Portfolio/static/media/GitHub.1a28e1ab52ca801720de.png",
-    "static/media/CSS.png": "/Portfolio/static/media/CSS.5721a3928fe43de6baf8.png",
     "index.html": "/Portfolio/index.html",
-    "main.0c309848.css.map": "/Portfolio/static/css/main.0c309848.css.map",
-    "main.571f150e.js.map": "/Portfolio/static/js/main.571f150e.js.map",
-    "787.f6e65957.chunk.js.map": "/Portfolio/static/js/787.f6e65957.chunk.js.map"
+    "main.457b27a8.css.map": "/Portfolio/static/css/main.457b27a8.css.map",
+    "main.0c604447.js.map": "/Portfolio/static/js/main.0c604447.js.map",
+    "453.1407b060.chunk.js.map": "/Portfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0c309848.css",
-    "static/js/main.571f150e.js"
+    "static/css/main.457b27a8.css",
+    "static/js/main.0c604447.js"
   ]
 }
