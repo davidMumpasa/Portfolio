@@ -1,9 +1,10 @@
 import React from 'react'
-import HTML from '../Assets/HTML.png'
-import CSS from '../Assets/CSS.png'
+import python from '../Assets/python.png'
+import flask from '../Assets/flask.png'
+import Jenkins from '../Assets/jenkins.png'
 import JavaScript from '../Assets/JAVASCRIPT.png'
 import Spring from '../Assets/SpringBoot.png'
-import ReactJs from '../Assets/REACT.png'
+import ReactJs from '../Assets/REACT.PNG'
 import Java from '../Assets/JAVA.png'
 import JavaEE from '../Assets/JavaEE.png'
 import GITHUB from '../Assets/GitHub.png'
@@ -19,12 +20,12 @@ const Skills = () => {
 
             <div className='w-full grid grid-cols-2 sm:grid-cols-4 gap-4 text-center py-8'>
                 <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                    <img className='w-20 mx-auto' src={HTML} alt="HTML icon"/> 
-                    <p className='my-4'>HTML</p>
+                    <img className='w-20 mx-auto' src={python} alt="HTML icon"/> 
+                    <p className='my-4'>PYTHON</p>
                 </div>
                 <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                    <img className='w-20 mx-auto' src={CSS} alt="CSS icon"/> 
-                    <p className='my-4'>CSS</p>
+                    <img className='w-20 mx-auto' src={flask} alt="CSS icon"/> 
+                    <p className='my-4'>Flask</p>
                 </div>
                 <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
                     <img className='w-20 mx-auto' src={JavaScript} alt="JavaScript icon"/> 
@@ -47,8 +48,8 @@ const Skills = () => {
                     <p className='my-4'>JAVA</p>
                 </div>
                 <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                    <img className='w-20 mx-auto' src={JavaEE} alt="Java ee, icon"/> 
-                    <p className='my-4'>JEE</p>
+                    <img className='w-20 mx-auto' src={Jenkins} alt="Java ee, icon"/> 
+                    <p className='my-4'>JENKINS</p>
                 </div>
             </div>
 
