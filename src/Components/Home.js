@@ -14,10 +14,14 @@ const Home = () => {
           I'm a Full Stack Developer.
         </h2>
         <p className="text-[#8892b0] py-4 max-w-[700px]">
-          I'm a full stack developer specializing in building (and occasionally
-          designing) exceptional digital experiences, Currently, I'm focussed on
-          building responsive ful-stack web applications
+          As a passionate full-stack developer, I specialize in crafting
+          seamless, innovative digital experiences that blend both form and
+          function. With a focus on creating intuitive, high-performance web
+          applications, I’m currently dedicated to building scalable, responsive
+          solutions that push the boundaries of what's possible in modern web
+          development.
         </p>
+
         <div>
           <Link
             to="work"
@@ -31,7 +35,6 @@ const Home = () => {
               <HiArrowNarrowRight className="ml-3" />
             </span>
           </Link>
-          
         </div>
       </div>
     </div>
