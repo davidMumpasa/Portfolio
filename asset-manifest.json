@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.457b27a8.css",
-    "main.js": "/Portfolio/static/js/main.0c604447.js",
+    "main.css": "/Portfolio/static/css/main.658dfa0b.css",
+    "main.js": "/Portfolio/static/js/main.897050c7.js",
     "static/js/453.1407b060.chunk.js": "/Portfolio/static/js/453.1407b060.chunk.js",
     "static/media/Faculty.jpg": "/Portfolio/static/media/Faculty.784e69cd40a3f64a137e.jpg",
     "static/media/Hospital.jpg": "/Portfolio/static/media/Hospital.a881da5c7213c07b5ab2.jpg",
@@ -13,16 +13,17 @@
     "static/media/SpringBoot.png": "/Portfolio/static/media/SpringBoot.06545b7d2b1013232f72.png",
     "static/media/JavaEE.png": "/Portfolio/static/media/JavaEE.84960c6a43406f27c9ae.png",
     "static/media/REACT.PNG": "/Portfolio/static/media/REACT.47a490592682112eb463.PNG",
-    "static/media/DE.png": "/Portfolio/static/media/DE.13c1b8b3fd016720b85c.png",
+    "static/media/DE.png": "/Portfolio/static/media/DE.115333a35192dc44b60d.png",
+    "static/media/davidEbula2.jpg": "/Portfolio/static/media/davidEbula2.f046087b79763dbce1bd.jpg",
     "static/media/JAVA.png": "/Portfolio/static/media/JAVA.7506ee0b6a3a7de68178.png",
     "static/media/GitHub.png": "/Portfolio/static/media/GitHub.1a28e1ab52ca801720de.png",
     "index.html": "/Portfolio/index.html",
-    "main.457b27a8.css.map": "/Portfolio/static/css/main.457b27a8.css.map",
-    "main.0c604447.js.map": "/Portfolio/static/js/main.0c604447.js.map",
+    "main.658dfa0b.css.map": "/Portfolio/static/css/main.658dfa0b.css.map",
+    "main.897050c7.js.map": "/Portfolio/static/js/main.897050c7.js.map",
     "453.1407b060.chunk.js.map": "/Portfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.457b27a8.css",
-    "static/js/main.0c604447.js"
+    "static/css/main.658dfa0b.css",
+    "static/js/main.897050c7.js"
   ]
 }
