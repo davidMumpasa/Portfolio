@@ -23,6 +23,7 @@ import {
 import { HiOutlineMail } from "react-icons/hi";
 import { BsFillPersonLinesFill } from "react-icons/bs";
 import { HiSparkles } from "react-icons/hi";
+import Resume from "../Resume/David.pdf";
 
 const ModernPortfolio = () => {
   const [nav, setNav] = useState(false);
@@ -192,10 +193,20 @@ const ModernPortfolio = () => {
             <span>View My Work</span>
             <FaArrowRight className="group-hover:translate-x-2 transition-transform duration-300" />
           </button>
-          <button className="border-2 border-transparent bg-gradient-to-r from-emerald-600 to-teal-600 text-white px-10 py-5 rounded-full font-bold text-lg flex items-center space-x-3 hover:from-emerald-700 hover:to-teal-700 transition-all duration-300 transform hover:scale-110 cursor-pointer">
+          {/* <button className="border-2 border-transparent bg-gradient-to-r from-emerald-600 to-teal-600 text-white px-10 py-5 rounded-full font-bold text-lg flex items-center space-x-3 hover:from-emerald-700 hover:to-teal-700 transition-all duration-300 transform hover:scale-110 cursor-pointer">
             <FaDownload className="animate-pulse" />
             <span>View Resume</span>
-          </button>
+          </button> */}
+
+          <a
+            className="border-2 border-transparent bg-gradient-to-r from-emerald-600 to-teal-600 text-white px-10 py-5 rounded-full font-bold text-lg flex items-center space-x-3 hover:from-emerald-700 hover:to-teal-700 transition-all duration-300 transform hover:scale-110 cursor-pointer"
+            href={Resume}
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <FaDownload className="animate-pulse" />
+            <span>View Resume</span>
+          </a>
         </div>
 
         {/* Contact Info Strip */}
